@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## خدمات دیجی امداد رسان
+دیجی امداد رسان یکی از فعال ترین مجموعه ها در زمینه سرویس و تعمیرات انواع لوازم خانگی از جمله:
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ تعمیرات پکیج دیواری
 
-### Contact me
+ تعمیرات کولر گازی
 
-[email@domain.com](mailto:email@domain.com)
+این مجموعه با بهره مندی از بهترین و با دانش ترین کارشناسان در زمینه تعمیرات و سرویس انواع لوازم خانگی آماده ارائه کلیه خدمات در این زمینه ها در کلیه نقاط شهر تهران و کرج می باشد.
+وبسایت دیجی امداد رسان : [دیجی امداد رسان](https://dgsos.ir/)
