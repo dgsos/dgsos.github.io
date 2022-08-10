@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: درباره ما
 permalink: /about/
 published: true
 ---
